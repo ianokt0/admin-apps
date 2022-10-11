@@ -8,7 +8,7 @@
     <title>Admin Dashboard</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-
+    <!-- test push -->
     <!-- inject:css-->
 
     <link rel="stylesheet" href="{{ asset('import/assets/vendor_assets/css/bootstrap/bootstrap.css') }}">
